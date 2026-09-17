@@ -33,8 +33,8 @@ No account, no telemetry.
 This is a separate codebase built with native Windows technology. Provider
 reading and parsing follow the macOS version's
 [`Sources/QuotaCore`](https://github.com/QuotaBar/QuotaBar/tree/main/Sources/QuotaCore)
-as the reference implementation, and Quota Run follows the wire contract in
-[`docs/quota-run.md`](https://github.com/QuotaBar/QuotaBar/blob/main/docs/quota-run.md).
+as the reference implementation, and Quota Run follows the same wire contract
+as the macOS version.
 
 ## License
 

@@ -31,9 +31,7 @@ QuotaBar 显示各家 AI 编码服务的额度用了多少、每个窗口什么�
 
 这是一个独立的代码库，使用 Windows 原生技术开发。各服务商的读取与解析逻辑以 macOS 版的
 [`Sources/QuotaCore`](https://github.com/QuotaBar/QuotaBar/tree/main/Sources/QuotaCore)
-为参考实现，Quota Run 遵循
-[`docs/quota-run.md`](https://github.com/QuotaBar/QuotaBar/blob/main/docs/quota-run.md)
-中的接口约定。
+为参考实现，Quota Run 遵循与 macOS 版相同的接口约定。
 
 ## 许可证
 
